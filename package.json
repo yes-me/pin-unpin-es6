@@ -1,8 +1,5 @@
 {
   "name": "pin-unpin-es6",
-  "version": "1.0.0",
-  "description": "Pin Unpin element based on the element scrollY position written in ES6",
-  "main": "dist/scripts/app.min.js",
   "author": "Amy Huang",
   "license": "MIT",
   "devDependencies": {
